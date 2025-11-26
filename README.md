@@ -30,12 +30,3 @@
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats-livid-theta-98.vercel.app/api/top-langs/?username=mresath&theme=react&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_with=320" />
 </a>
-
-### Projects:
-
-<a href="https://github.com/mresath/NewtonsNotepad">
-  <img align="center" src="https://github-readme-stats-livid-theta-98.vercel.app/api/pin/?username=mresath&repo=NewtonsNotepad&theme=react" />
-</a>
-<a href="https://github.com/mresath/QTEdit">
-  <img align="center" src="https://github-readme-stats-livid-theta-98.vercel.app/api/pin/?username=mresath&repo=QTEdit&theme=react" />
-</a>
